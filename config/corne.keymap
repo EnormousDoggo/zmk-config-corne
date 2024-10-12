@@ -51,9 +51,9 @@
                                                       &kp LGUI           &trans                    &kp SPACE     &kp ENTER  &kp GRAVE  &kp RALT
             >;
         };
-    };
 
-    &led_strip {
-        chain-length = <27>;
+        &led_strip {
+            chain-length = <27>;
+        };
     };
 };
